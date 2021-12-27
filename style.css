@@ -22,11 +22,30 @@ h1{
 div.main{
     text-align: center;
     color: white;
+    padding: 2em 10em 2em;
+}
+div.sectionTitle{
+    font-size: x-large;
+    text-align: center;
+    color: white;
+}
+
+div.sectionSubtitle{
+    font-size: larger;
+    text-align: center;
+    color: white;
+}
+
+div.sectionBody{
+    text-align: center;
+    color: white;
 }
 
 footer{
     color: white;
     font-size: x-small;
+    padding: 2em 10em 2em;
+    
 }
 
 
